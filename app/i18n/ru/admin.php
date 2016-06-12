@@ -98,8 +98,8 @@ return array(
 			'ok' => 'Права на папку users  в порядке.',
 		),
 		'zip' => array(
-			'nok' => 'You lack ZIP extension (php5-zip package).',
-			'ok' => 'You have ZIP extension.',
+			'nok' => 'У вас не установлено расширение ZIP (пакет php5-zip).',
+			'ok' => 'У вас установлено расширение ZIP .',
 		),
 	),
 	'extensions' => array(
@@ -169,7 +169,7 @@ return array(
 	'user' => array(
 		'articles_and_size' => '%s статей (%s)',
 		'create' => 'Создать нового пользователя',
-		'email_persona' => 'Адрес электронной почты для входа<br /><small>(for <a href="https://persona.org/" rel="external">Mozilla Persona</a>)</small>',
+		'email_persona' => 'Адрес электронной почты для входа<br /><small>(для <a href="https://persona.org/" rel="external">Mozilla Persona</a>)</small>',
 		'language' => 'Язык',
 		'number' => 'На данный момент создан %d аккаунт',
 		'numbers' => 'На данный момент аккаунтов создано:  %d',
